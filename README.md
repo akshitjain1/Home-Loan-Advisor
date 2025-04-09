@@ -13,3 +13,6 @@ A Streamlit app that helps users assess their loan eligibility and get personali
 
 1. Clone the repo
 2. Create a `.env` file with your Gemini API key:
+
+## Streamlit Deployment Link
+[Deployment Link](https://home-loan-advisor-kh2s8dbmjap8ejhdxl5hxa.streamlit.app/)
